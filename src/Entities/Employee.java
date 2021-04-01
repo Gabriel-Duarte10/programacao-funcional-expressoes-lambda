@@ -1,6 +1,6 @@
 package Entities;
 
-public class Employee {
+public class Employee  {
 
 	private String name;
 	private String email;
@@ -45,5 +45,6 @@ public class Employee {
 	public String toString() {
 		return "Employee [name=" + name + ", email=" + email + ", sal=" + sal + "]";
 	}
-		
+	 
+
 }
